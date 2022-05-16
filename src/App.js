@@ -19,8 +19,8 @@ function App() {
 
       <BrowserRouter>
         <Routes >
-          <Route exact path='HACK-IT-ON/' element={<Form/>} />
-          <Route path='HACK-IT-ON/dash' element={<Dashboard/>} />
+          <Route exact path='Hachiton-dashboard/' element={<Dashboard/>} />
+          <Route path='HACK-IT-ON/dash' element={<Form/>} />
           <Route path='mech/venture' element={<Venture />} />
           <Route path='mech/techquiz' element={<Techquiz />} />
           <Route path='mech/techwrite' element={<Techwrite />} />

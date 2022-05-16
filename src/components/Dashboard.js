@@ -73,7 +73,7 @@ function Dashboard() {
                                     <td>{team.Tema_memb_3}</td>
                                     <td>{team.Contact_team_memb_3}</td>
                                     <td>{team.Email_team_memb_3}</td>
-                                    <td><a href={`${team.filr_Url}`}>{team.file_Url}</a></td>
+                                    <td><a href={`${team.file_Url}`}>{team.file_Url}</a></td>
                                 </tr>)
 
                             })}
