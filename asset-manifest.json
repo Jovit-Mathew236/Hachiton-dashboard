@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Hachiton-dashboard/static/css/main.f48d2de9.css",
-    "main.js": "/Hachiton-dashboard/static/js/main.4ebe9971.js",
+    "main.css": "/Hachiton-dashboard/static/css/main.c93919f5.css",
+    "main.js": "/Hachiton-dashboard/static/js/main.c87a5d06.js",
     "static/media/emergebg.jpg": "/Hachiton-dashboard/static/media/emergebg.9e3d4f6e5174ea9f9457.jpg",
     "static/media/CIVISTAbg.jpg": "/Hachiton-dashboard/static/media/CIVISTAbg.ee2cc23a3898b58881bd.jpg",
     "static/media/MECHAURAbg.jpg": "/Hachiton-dashboard/static/media/MECHAURAbg.01dfebfd57fbf1632359.jpg",
     "static/media/RADIANCEbg.jpg": "/Hachiton-dashboard/static/media/RADIANCEbg.a8f4f3606be4c880d876.jpg",
     "index.html": "/Hachiton-dashboard/index.html",
-    "main.f48d2de9.css.map": "/Hachiton-dashboard/static/css/main.f48d2de9.css.map",
-    "main.4ebe9971.js.map": "/Hachiton-dashboard/static/js/main.4ebe9971.js.map"
+    "main.c93919f5.css.map": "/Hachiton-dashboard/static/css/main.c93919f5.css.map",
+    "main.c87a5d06.js.map": "/Hachiton-dashboard/static/js/main.c87a5d06.js.map"
   },
   "entrypoints": [
-    "static/css/main.f48d2de9.css",
-    "static/js/main.4ebe9971.js"
+    "static/css/main.c93919f5.css",
+    "static/js/main.c87a5d06.js"
   ]
 }
